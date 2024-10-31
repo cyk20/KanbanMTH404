@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban", "Kanban\Kanban.csproj", "{FD18B9F3-EAE4-47C7-9C4A-80738E620888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{0DB7EEC6-38C0-4A09-812A-C50A7626E5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD18B9F3-EAE4-47C7-9C4A-80738E620888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD18B9F3-EAE4-47C7-9C4A-80738E620888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD18B9F3-EAE4-47C7-9C4A-80738E620888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD18B9F3-EAE4-47C7-9C4A-80738E620888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB7EEC6-38C0-4A09-812A-C50A7626E5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB7EEC6-38C0-4A09-812A-C50A7626E5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB7EEC6-38C0-4A09-812A-C50A7626E5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB7EEC6-38C0-4A09-812A-C50A7626E5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2ECC13C-ECD2-4D68-BC71-E212E397B33B}
+	EndGlobalSection
+EndGlobal
